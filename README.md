@@ -1,34 +1,18 @@
 <!-- Section splitter comments because clean freak -->
-# Null
 
+
+<!-- Completely un-used anymore but is a fair template -->
+<!-- 
 <div align="center">
   <img src="img/NullV2-NBG.png" alt="This is soo useless but oh well" width="240" />
-</div>
+</div> -->
 
-<!-- Section splitter comments because clean freak -->
-## About
+# About me
 
-Hi, I'm Sophie, also known as sophie Black.
+Hey there, I'm Sophie the Founder & CEO At NDSL, and Lead programer for Vastrel.Net. 
 
-I create code and work on plugins, clients, and automation tools within the gaming industry. My focus is building practical software that improves gameplay experiences, supports communities, and helps projects run more efficiently.
+This is my new github profile to not have as much of my older un-related projects associated within this Enviorment. 
 
-I own the group known as Null, which originally started on 2b2t more than 10 years ago. What began as a long-running gaming community has grown into a development-focused group centered around building tools and software for the spaces we care about.
+I look foward to seeing You later, Mwahh
 
-<!-- Section splitter comments because clean freak -->
-## What I do
-
-- Plugin development
-- Client-side tooling
-- Automation scripts and utilities
-- Game-focused software engineering
-- Community-driven development projects
-
-<!-- Section splitter comments because clean freak -->
-## Mission
-
-While Null no-longer remains active within 2B2T as of 2024, we have moved our ventures into other areas. A lot of us moved onto different games, but we have recently started to dabble into a clone server of 2B2T called 6B6T.
-
-<!-- Section splitter comments because clean freak -->
-## Origin
-
-Null began on 2b2t over a decade ago and has continued to evolve as a project and a community. The name carries the legacy of that early history while continuing to grow into modern software development.
+- Sophie B @ NDSL 
